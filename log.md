@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: September 5, 2018 (
+### Day 0: September 5, 2018 
 
 **Today's Progress**: Download SoloLearn App and start learning python basics. Also register on CodeAcadamy and continue learning the basics of Python.
 
