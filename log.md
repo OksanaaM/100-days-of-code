@@ -13,6 +13,8 @@
 
 **Today's Progress**: Countinue learning Python, take a course on prometheus.org.ua 
 Solve some tasks on codeacademy. Reading the book about structures and basics of Python.
+ learning Python, take a course on prometheus.org.ua 
+Solve some tasks on codeacademy. Reading the book about structures and basics of Python.
 
 **Thoughts:** Find out lot's of differences between Java and Python
 
