@@ -7,5 +7,15 @@
 **Thoughts:** It was pretty easy to learn some basical things, cause I've got an expirience with Java, C++ and JS.  
 
 **Link to work:** https://www.codecademy.com/courses/learn-python
+ 
 
+### Day 1: September 5, 2018 
 
+**Today's Progress**: Countinue learning Python, take a course on prometheus.org.ua 
+Solve some tasks on codeacademy. Reading the book about structures and basics of Python.
+
+**Thoughts:** Find out lot's of differences between Java and Python
+
+**Link to work:** https://www.codecademy.com/courses/learn-python
+https://edx.prometheus.org.ua/courses/KPI/Programming101/2015_T1/info
+ 
