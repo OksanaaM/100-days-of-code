@@ -9,7 +9,7 @@
 **Link to work:** https://www.codecademy.com/courses/learn-python
  
 
-### Day 1: September 5, 2018 
+### Day 1: September 6, 2018 
 
 **Today's Progress**: Countinue learning Python, take a course on prometheus.org.ua 
 Solve some tasks on codeacademy. Reading the book about structures and basics of Python.
@@ -21,3 +21,11 @@ Solve some tasks on codeacademy. Reading the book about structures and basics of
 **Link to work:** https://www.codecademy.com/courses/learn-python
 https://edx.prometheus.org.ua/courses/KPI/Programming101/2015_T1/info
  
+ ### Day 2: September 7, 2018 
+
+**Today's Progress**: Keep going learning Python, finish reading the book about basic structures. Also, continue my course in Codeacademy and in SoloCode app. 
+
+**Thoughts:** Read lots of information
+
+**Link to work:** https://www.codecademy.com/courses/learn-python
+
