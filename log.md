@@ -29,3 +29,13 @@ https://edx.prometheus.org.ua/courses/KPI/Programming101/2015_T1/info
 
 **Link to work:** https://www.codecademy.com/courses/learn-python
 
+ ### Day 3: September 8, 2018 
+
+**Today's Progress**: Discover lots of new about Python. Start working with math lib, also get my  assignment for the zero ML lab, trying to find out how to code this. 
+
+**Thoughts:** Feel tired after hard week
+
+**Link to work:** https://www.codecademy.com/courses/learn-python
+
+
+
