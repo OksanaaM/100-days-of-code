@@ -37,5 +37,12 @@ https://edx.prometheus.org.ua/courses/KPI/Programming101/2015_T1/info
 
 **Link to work:** https://www.codecademy.com/courses/learn-python
 
+ ### Day 4: September 9, 2018 
+
+**Today's Progress**: Learn how to work with dictionaries, almost finish training exersizes on Solocode. Practice on code academy.
+
+**Thoughts:** Feel tired 
+
+**Link to work:** https://www.codecademy.com/courses/learn-python
 
 
