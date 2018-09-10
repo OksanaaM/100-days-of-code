@@ -45,4 +45,12 @@ https://edx.prometheus.org.ua/courses/KPI/Programming101/2015_T1/info
 
 **Link to work:** https://www.codecademy.com/courses/learn-python
 
+### Day 5: September 10, 2018 
+
+**Today's Progress**: Read how to work with .csv files, also improve my skills with dictionaries. 
+
+**Thoughts:** Feel tired and sick
+
+**Link to work:** https://www.codecademy.com/courses/learn-python
+
 
