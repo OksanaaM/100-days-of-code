@@ -53,4 +53,12 @@ https://edx.prometheus.org.ua/courses/KPI/Programming101/2015_T1/info
 
 **Link to work:** https://www.codecademy.com/courses/learn-python
 
+### Day 6: September 11, 2018 
+
+**Today's Progress**: Complete some excersises in SoloCode app, start reading the book “Automate the Boring Stuff with Python”. Also work with csv files, learn some functions of numpy.
+
+**Thoughts:** Feel the desire to learn something new
+
+**Link to work:** 
+
 
