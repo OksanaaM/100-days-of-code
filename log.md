@@ -60,5 +60,12 @@ https://edx.prometheus.org.ua/courses/KPI/Programming101/2015_T1/info
 **Thoughts:** Feel the desire to learn something new
 
 **Link to work:** 
+### Day 7: September 12, 2018 
+
+**Today's Progress**: Almost finish doing all python exercises in SoloCode app, keep reading the book “Automate the Boring Stuff with Python”. Also, work with dictionaries.
+
+**Thoughts:** Feel the desire to learn something new
+
+**Link to work:** 
 
 
