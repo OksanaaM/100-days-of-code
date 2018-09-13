@@ -67,5 +67,12 @@ https://edx.prometheus.org.ua/courses/KPI/Programming101/2015_T1/info
 **Thoughts:** Feel the desire to learn something new
 
 **Link to work:** 
+### Day 8: September 13, 2018 
+
+**Today's Progress**: Practice with .cvs files. Work with regular expectations.
+
+**Thoughts:** Feel the desire to learn something new
+
+**Link to work:** 
 
 
